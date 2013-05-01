@@ -1,0 +1,9 @@
+{
+  "name": "factor-component",
+  "description": "factor numbers",
+  "version": "0.0.1",
+  "devDependencies": {
+    "mocha": "*",
+    "better-assert": "*"
+  }
+}
