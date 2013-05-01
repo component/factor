@@ -5,7 +5,13 @@
 
 ## Installation
 
+With component:
+
     $ component install component/factor
+
+With node.js:
+
+    $ npm install factor
 
 ## Example
 
